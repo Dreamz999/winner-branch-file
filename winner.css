@@ -9,8 +9,8 @@
     align-items: center;
 }
 .logo-head img{
-    width: 100px;
-    border-radius: 150px;
+    width: 200px;
+    border-radius: 200px;
     border: 5px solid transparent;
 }
 .logo-head h1{
