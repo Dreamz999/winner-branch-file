@@ -3,6 +3,10 @@
    margin: 0;
    box-sizing: border-box;
 }
+.logo-head{
+    display: flex;
+    justify-content: center;
+}
 .logo-head img{
     width: 100px;
     border-radius: 150px;
