@@ -20,4 +20,10 @@
 .nav-list ul li{
     padding: 10px;
     list-style-type: none;
+    color: darkred;
+}
+.nav-head{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
