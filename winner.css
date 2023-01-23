@@ -11,7 +11,9 @@
 .logo-head h1{
     color: blueviolet;
     font-weight: bold;
-    text-shadow: black;
-    font-family: 'poppins' sans-serif;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
+}
+.nav-list{
+    display: flex;
 }
