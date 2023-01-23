@@ -3,3 +3,6 @@
    margin: 0;
    box-sizing: border-box;
 }
+.logo-head img{
+    width: 100px;
+}
