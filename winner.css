@@ -6,4 +6,6 @@
 .logo-head img{
     width: 200px;
     border-radius: 50px;
+    padding-top: 20px;
+    border: 5px solid silver;
 }
