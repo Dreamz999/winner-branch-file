@@ -28,6 +28,8 @@
     padding: 10px;
     list-style-type: none;
     color: darkred;
+}
+.nav-list ul li a{
     text-decoration: none;
 }
 .nav-head{
