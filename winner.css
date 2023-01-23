@@ -5,7 +5,8 @@
 }
 .logo-head{
     display: flex;
-    justify-content: center;
+    align-content: center;
+    align-items: center;
 }
 .logo-head img{
     width: 100px;
