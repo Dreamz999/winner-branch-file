@@ -28,6 +28,7 @@
     padding: 10px;
     list-style-type: none;
     color: darkred;
+    text-decoration: none;
 }
 .nav-head{
     display: flex;
