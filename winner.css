@@ -16,4 +16,6 @@
 }
 .nav-list ul{
     display: flex;
+    text-decoration: none;
+    padding: 10px;
 }
