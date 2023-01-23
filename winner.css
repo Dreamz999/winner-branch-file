@@ -4,5 +4,6 @@
    box-sizing: border-box;
 }
 .logo-head img{
-    width: 100px;
+    width: 200px;
+    border-radius: 50px;
 }
