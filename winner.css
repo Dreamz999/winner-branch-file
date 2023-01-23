@@ -9,7 +9,7 @@
     align-items: center;
 }
 .logo-head img{
-    width: 200px;
+    width: 100px;
     border-radius: 200px;
     border: 5px solid transparent;
     background-color: whitesmoke;
@@ -33,5 +33,5 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding-top: 20px;
+    padding-top: 10px;
 }
