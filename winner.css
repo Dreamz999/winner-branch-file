@@ -10,7 +10,8 @@
 }
 .logo-head h1{
     color: blueviolet;
-    font-weight: bolder;
+    font-weight: bold;
+    text-shadow: black;
     font-family: 'poppins' sans-serif;
-    line-height: 10px;
+    
 }
