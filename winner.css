@@ -12,9 +12,11 @@
     width: 200px;
     border-radius: 200px;
     border: 5px solid transparent;
+    background-color: whitesmoke;
 }
 .logo-head h1{
     color: rgb(39, 3, 72);
+    font-size: 30px;
     font-weight: bold;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     
